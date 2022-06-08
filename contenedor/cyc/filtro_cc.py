@@ -45,3 +45,5 @@ df = df.set_index('Tienda')
 
 #Guardando los cambios en un archivo csv llamado "data_cc"
 df.to_csv('data_cc.csv')
+
+#
