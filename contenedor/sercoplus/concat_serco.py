@@ -34,3 +34,5 @@ df = pd.concat([
 #df = df.set_index('Tienda')
 df.to_csv("data_a_filtrar_s.csv")
 print("--- DATOS CONCATENADOS ---")
+
+#
