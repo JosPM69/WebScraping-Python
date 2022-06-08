@@ -1,0 +1,1 @@
+Este proyecto fue realizado para la finalización del bootcamp de Hackspace, con la extracción de datos de páginas Ecommerce como los son las tiendas "C&C" y "Sercoplus" para posteriormente hacerle un tratamiento de datos para su limpieza y uso, con el fin de visualizarlos finalmente en una página web
