@@ -32,6 +32,7 @@ df['Generación'] = df.Generación.replace({
     })
 
 print(df.columns)
+#Enviando al destino donde se utilizará
 df.to_csv("../digitalia/data/data.csv")
-
+#
 print('\n-------- DATA LISTA --------\n')
