@@ -15,7 +15,7 @@ cc_gpu = pd.read_csv('1_data/cc_gpu.csv')
 cc_laptop = pd.read_csv('1_data/cc_laptop.csv')
 cc_psu = pd.read_csv('1_data/cc_psu.csv')
 cc_ram = pd.read_csv('1_data/cc_ram.csv')
-#
+
 df = pd.concat([
     cc_mb_10,
     cc_mb_11,
